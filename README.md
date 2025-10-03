@@ -35,11 +35,9 @@ Examples include:
 ##  Project Structure:
 - README.md
 - Project_Report.docx
-- Query_Steps_for_data_cleaning.sql
-- Cleaned_Dataset.csv
-- Uncleaned_Dataset.csv
-- SQL_Queries.sql
-- Uncleaned_Queries.sql
+- Queries_of_Data_preprocessing_and_exploration.sql
+- Cleaned_Dataset.zip
+- Queries_of_Uncleaned_dataset.sql
 - churn_cleaned_dataset.png
 
 ##  Learning Outcomes:

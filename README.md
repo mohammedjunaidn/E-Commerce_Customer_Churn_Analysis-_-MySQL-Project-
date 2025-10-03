@@ -1,6 +1,5 @@
 #  E-Commerce Customer Churn Analysis (MySQL Project)
-<h2 style="color:darkblue;">Overview</h2>
-<h2 style="color:darkblue;">Objective</h2>
+
 ##  Overview 
 This project focuses on cleaning and exploring a raw e-commerce customer dataset using MySQL.
 It involves solving 18 analytical queries to prepare the data for churn analysis and future visualization.

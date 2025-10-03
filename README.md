@@ -46,6 +46,10 @@ Examples include:
 -	Strengthened skills for data analytics and database management roles
 
 ##  References:
+steps of data cleaning and exploration
+
+cleaned dataset
+
 
 
 

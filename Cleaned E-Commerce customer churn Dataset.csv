@@ -5627,3 +5627,4 @@ CustomerID,ChurnStatus,Tenure,PreferredLoginDevice,CityTier,WarehouseToHome,Dist
 55628,Active,1,Mobile Phone,1,11,Moderate Distance,Debit Card,Male,3,2,Laptop & Accessory,4,Married,3,Yes,21,1,2,4,186
 55629,Active,23,Computer,3,9,Close Distance,Credit Card,Male,4,5,Laptop & Accessory,4,Married,4,No,15,2,2,9,179
 55630,Active,8,Mobile Phone,1,15,Moderate Distance,Credit Card,Male,3,2,Laptop & Accessory,3,Married,4,No,13,2,2,3,169
+

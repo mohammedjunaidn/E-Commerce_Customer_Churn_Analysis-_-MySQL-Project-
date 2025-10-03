@@ -35,6 +35,7 @@ Examples include:
 ##  Project Structure:
 - README.md
 - Project_Report.docx
+- Query_Steps_for_data_cleaning.sql
 - Cleaned_Dataset.csv
 - Uncleaned_Dataset.csv
 - SQL_Queries.sql
